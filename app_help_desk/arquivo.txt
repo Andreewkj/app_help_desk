@@ -1,0 +1,3 @@
+4#chamado maria#Impressora#bleibleide yugiogo
+3#chamado jose#Rede#não conecta
+1#adm chamado#Criação Usuário#usuario criado
